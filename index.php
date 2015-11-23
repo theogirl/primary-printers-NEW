@@ -7,7 +7,7 @@
 	<meta name="description" content="The Cup Store is your premier source for custom printed disposable paper and plastic cups, glassware, containers, coffee sleeves and much more. Grow your brand and your business one cup at a time - print your logo or other artwork on a cup!">
 	<meta name="keywords" content="paper cups, plastic cups, glassware, coffee sleeves, gelato cups, ice cream cups, compostable cups, biodegradeable cups, eco cups, printed paper cups, printed plastic cups, custom printed cups, imprinted paper cups, imprinted plastic cups, promotional cups, logo on cups, custom cups, customized cups">
     
-    <title>The Cup Store</title>
+    <title>Primary Printers</title>
 
  <?php include 'includes/head.php'; ?>
 
@@ -18,160 +18,119 @@
 <!--HEADER SECTION-->
 <?php include 'includes/header.php'; ?>
 
+
 <!--MAIN CONTENT-->
 
 <!--HERO IMAGE-->
 <section class="jumbotron hero">
       <div class="container">
-        <img src="images/home-hero-logo.png" alt="The Cup Store logo" title="The Cup Store logo">
-        	<div class="row"><!--holds the hero buttons-->
+      <div class="row">
+        <p><span class="hero-text">Help your clients grow their business,<br /> one cup at a time.</span></p>
+        </div>
+        	<!--<div class="row">
         		<div class="col-xs-12 col-sm-3 col-sm-offset-3">
        		 	<a class="btn btn-primary btn-lg hero-btn" href="about-us.php" role="button">Learn more</a>
        			</div>
        			<div class="col-xs-12 col-sm-3">
        			<a class="btn btn-primary btn-lg hero-btn" href="products.php" role="button">Products</a>
        			</div>
-       		</div>
+       		</div>-->
       </div>
 </section>
 
+ <aside class="pp-codes"><!--these are Association codes for resellers-->
+	<p><i class="fa fa-check-square"></i> <strong>ASI</strong>/79522 <i class="fa fa-check-square"></i> <strong>SAGE</strong>/68087 <i class="fa fa-check-square"></i> <strong>PPPC</strong>/20081004</p>
+</aside>
+
 <div class="container">
 	<section class="row home-ctr">
-		 <h2 class="featurette-heading">Helping you build your business. One cup at a time.</h2>
-          <p class="tcs-lead">Print your logo on our cups and tell your customers who you are with every delicious sip they take! Nothing is more important to you than growing your business. Our cups will help you promote and build your brand by offering the quality and distinction that will set you apart from your competition.</p>
+		 
+          <p class="tcs-lead">Primary Printers is a leading supplier of custom printed disposable cups and glassware. We proudly partner with promotional marketing professionals to help their clients grow their businesses by achieving strong brand recognition. Our extensive experience and printing capabilities allow us to offer our reseller clients the highest level of quality and service, in turn making us a trusted collaborator. We carry a full line of cup products and accessories, including compostable papers and plastics, glassware, gelato cups, coffee sleeves, lids, and more.</p>
 	</section>
+
+
+<section>
+<div class="row">
+	<div class="col-xs-6 col-md-3 pp-thumb">
+	<a href="prod-paper-cups.php"><img src="images/home-prod-paper.jpg" /><br />Standard Paper Cups</a>
+	</div>
+
+		<div class="col-xs-6 col-md-3 pp-thumb">
+	<a href="#"><img src="images/home-prod-dw.jpg" /><br />Double-Walled Cups</a>
+	</div>
+
+		<div class="col-xs-6 col-md-3 pp-thumb">
+	<a href="#"><img src="images/home-prod-plastic.jpg" /><br />Plastic Cups</a>
 	</div>
 
 
-
-<!--FEATURED THUMBS-->
-<div class="container">
-	<section class="row tcs-promos">
-
-
-
-	  	  <div class="col-xs-12 col-sm-4">
-	    <div class="thumbnail-special">
-	    <div class="promo_banner">FALL SPECIAL</div>
-	      <img src="images/feature-fall.jpg" alt="Fall promotion on hot cups!">
-	      <div class="caption">
-	        <h3><span style="color: rgb(215, 65, 12);">Get the Second Color Free!</span></h3>
-	        <p>Offer your customers something toasty in our <a href="http://thecupstore.com/prod-paper-cups.php">single-walled cups</a>, perfect for hot beverages! Stock up now and <span style="font-weight:bold;">receive the second color FREE</span> when you order five or more cases of custom printed paper cups!</p>
-	        <!--<p><a href="#" class="btn btn-primary" role="button">Read More</a></p>-->
-	      </div>
-	    </div>
-	  </div>
-
-	  	  <div class="col-xs-12 col-sm-4">
-	    <div class="thumbnail">
-	      <img src="images/feature2.jpg" alt="Monthly Special">
-	      <div class="caption">
-	        <h3>High-Volume Discounts</h3>
-	        <p>No job is too big, and the more you buy, the less you pay! <a href="form/quote-request.php">Request a quote</a> for your next high-volume order and discover why we're the preferred supplier for some of the leading brewers and beverage producers in the country. </p>
-	        <!--<p><a href="quote-request.php" class="btn btn-primary" role="button">Quote Request</a></p>-->
-	      </div>
-	    </div>
-	  </div>
-
-
-	  	  <div class="col-xs-12 col-sm-4">
-	    <div class="thumbnail">
-	      <img src="images/feature3.jpg" alt="Monthly Special">
-	      <div class="caption">
-	        <h3>Need a Sample? Just Ask!</h3>
-	        <p>We're always happy to show off our work and high quality products, so if you would like to get your hands on some actual cups, please get in touch. We'll be happy to send you samples so that you can decide which might suit your own needs best! </p>
-	      </div>
-	    </div>
-	  </div>
-	</section>
-	<hr>
-</div>
-
-<!-- INSTANSIVE WIDGET -->
-<div class="container">
-<section class="row home-ctr">
-<h2>Check out our Cups on Instagram!</h2><br />
-<script src="//instansive.com/widget/js/instansive.js"></script><iframe src="//instansive.com/widgets/406029627520e405a91834128cc5979372cd361e.html" id="instansive_4060296275" name="instansive_4060296275"  scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe></section>
-<p class="tcs-lead home-ctr insta">We carry a full line of cup products and accessories, including compostable papers and plastics, glassware, gelato cups, coffee sleeves, lids, and more! And they can be used for plenty of things besides just beverages. Consider using our cups for all kinds of munchies, sweets, and promotional giveaways... the only limit is your imagination! Call us today for great ideas on how to build your business, one cup at a time.</p>
-<hr>
-</div>
-
-
-
-<!--FEATURETTE
-<div class="container">
-    <section class="row featurette">
-       <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="images/test-featurette.jpg" alt="The Cup Store - Jeep Cup" title="The Cup Store - Jeep Cup">
-        </div>
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Helping you build your business.<br /> <span class="text-muted">One cup at a time.</span></h2>
-          <p class="tcs-lead">Print your logo on our cups and tell your customers who you are with every delicious sip they take! Nothing is more important to you than growing your business. Our cups will help you promote and build your brand by offering the quality and distinction that will set you apart from your competition.</p>
-          <p class="tcs-lead">We carry a full line of cup products and accessories, including compostable papers and plastics, glassware, gelato cups, coffee sleeves, lids, and more! And they can be used for plenty of things besides just beverages. Consider using our cups for all kinds of munchies, sweets, and promotional giveaways... the only limit is your imagination! Call us today for great ideas on how to build your business, one cup at a time.</p>
-          
-       </div>
-     </section>
- <hr>
- </div>-->
-
-
-<!--TESTIMONIALS-->
-
-
-<div class="container">
-<section class="tcs-customers">
-<div class="splash">
-<h2 class="home-ctr">We're Making a Splash with Our Customers!</h2><br />
-</div>
-
-	<div class="row tcs-quotes">
-
-	<div class="col-xs-12 col-sm-6">
-			<a class="twitter-timeline" href="https://twitter.com/TheCupStore" data-widget-id="638801762338648064">Tweets by @TheCupStore</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
-
-		<div class="col-xs-12 col-sm-6"> 
-			<div>
-				<h3>Fast Service and Friendly Staff</h3>
-				<p>"I love working with The Cup Store! The reps are always so friendly and the service is super fast!  The Cup Store has helped a lot with last minute orders and urgent requests, which has been a huge help especially when opening a new caf&#233;. I would recommend The Cup Store to any individual or company looking for a reliable and efficient supplier!"</p>
-				<p><em>- Store Operations Manager, <strong>Indigo</strong></em></p>
-			</div>
-
-			<div>
-				<h3>Outstanding Quality</h3>
-				<p>"I had the pleasure of dealing with Christina and the rest of the staff at The Cup Store and one word sums up their service, expertise, quality of work and ability to meet deadlines‎: OUTSTANDING. I will be doing business with The Cup Store for a very long time, as they are helping customers like me, one cup at a time!"</p>
-				<p><em>- Sales Representative, <strong>Diageo–Wirtz Beverage Canada</strong></em></p>
-			</div>
-
-
-		<div>
-				<h3>Tweet-worthy!</h3>
-				<p>"Stoked on our new cups from @thecupstore! Can't wait to use these!!!"</p>
-				<p><em>- @clearlykombucha, <strong>Clearly Kombucha</strong></em></p>
-			</div>
-
-		</div>
-
-		
-
+		<div class="col-xs-6 col-md-3 pp-thumb">
+	<a href="#"><img src="images/home-prod-frosted.jpg" /><br />Frosted Plastic Cups</a>
 	</div>
-	</section>
+</div>
+
+<div class="row">
+	<div class="col-xs-6 col-md-3 pp-thumb">
+	<a href="prod-paper-cups.php"><img src="images/home-prod-glass.jpg" /><br />Glassware</a>
 	</div>
 
+		<div class="col-xs-6 col-md-3 pp-thumb">
+	<a href="#"><img src="images/home-prod-gelato.jpg" /><br />Gelato Cups</a>
+	</div>
 
-<aside class="tcs-callout">
-	<div class="container-fluid row">
-				
-			<div class="container">
-				<h2>Are you a marketing professional?</h2>
-				<p>The Cup Store proudly partners with the advertising and marketing professionals who help their clients grow their business and achieve strong brand recognition. Our extensive experience and printing capabilities allow us to offer OEM clients a wide variety of products and become a trusted collaborator. If you're wondering how to incorporate printed cups into your strategy or would like more info on reseller pricing, give us a call!</p>
-			</div>
-	</div>	
-</aside>
+		<div class="col-xs-6 col-md-3 pp-thumb">
+	<a href="#"><img src="images/home-prod-sleeve.jpg" /><br />Coffee Sleeves</a>
+	</div>
+
+		<div class="col-xs-6 col-md-3 pp-thumb">
+	<a href="#"><img src="images/home-prod-food.jpg" /><br />Food Services</a>
+	</div>
+</div>
+
+</section>
+
+<hr class="hr-large">
+
+<section class="pp-contact">
+	<h2 class="home-headline">Get in touch today for a quote or more info!</h2>
+
+    <p>Join our email list and be the first to know about our monthly specials and promotions!</p>
+  
+
+<div class="row pp-form">
+        	
+<form method="post" action="https://app.icontact.com/icp/signup.php" name="icpsignup" id="icpsignup2168" accept-charset="UTF-8" onsubmit="return verifyRequired2168();" >
+<input type="hidden" name="redirect" value="http://www.primaryprinters.com/email-success.html">
+<input type="hidden" name="errorredirect" value="http://www.icontact.com/www/signup/error.html">
+
+ <div class="col-xs-10 col-xs-offset-1 col-sm-7 col-sm-offset-1"><!--email field-->
+    <input type="text" name="fields_email" class="required form-control" placeholder="Your E-mail" maxlength="60">
+
+    <input type="hidden" name="listid" value="9955263">
+    <input type="hidden" name="specialid:9955263" value="UWTK">
+    <input type="hidden" name="clientid" value="20581">
+    <input type="hidden" name="formid" value="2168">
+    <input type="hidden" name="reallistid" value="1">
+    <input type="hidden" name="doubleopt" value="0">
+</div>
+
+  <div class="col-xs-12 col-sm-1">
+    <button type="submit" name="Submit" class="btn btn-primary" value="Submit">Subscribe</button>
+  </div>
+</form>
+</div>
+</section>
+
+<section class="pp-contact">
+	<a href="mailto:customerservice@primaryprinters.com"><i class="fa fa-envelope-o"></i> Email Customer Service</a>
+	<p class="phone"><i class="fa fa-phone"></i> <strong>Toll-free:</strong><a href="tel:+18553700385"> 1-855-370-0385</a>  <strong>US:</strong> <a href="tel:+5182618070">518-261-8070</a>  <strong>CAN:</strong> <a href="tel:+9053700385">905-370-0385</a></p>
+
+</section>
+</div>
 
 <!--FOOTER SECTION-->
 
-<?php include 'includes/footer.php'; ?>
+ <?php include 'includes/footer.php'; ?>
     
 
 

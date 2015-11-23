@@ -5,24 +5,16 @@
 	<!--1st ROW-->
 	<div class="row blacktop">
 
-		<div class="col-sm-6 hidden-xs social"><!--contains SM icons which disappear on mobile nav-->
-			<a href="https://www.facebook.com/TheCupStore1"><i class="fa fa-facebook"></i></a>
-			<a href="https://twitter.com/thecupstore"><i class="fa fa-twitter"></i></a>
-			<a href="https://www.linkedin.com/company/the-cup-store?trk=prof-following-company-logo"><i class="fa fa-linkedin"></i></a>
-			<a href="http://www.instagram.com/thecupstore"><i class="fa fa-instagram"></i></a>
-			<a href="https://www.pinterest.com/thecupstore/"><i class="fa fa-pinterest"></i></a>	
+		<div class="hidden-xs col-sm-12 phone-header">
+			<p>$USD <a href="http://www.thecupstore.com"><span class="flag-icon flag-icon-us"></span></a> <a href="http://www.thecupstore.ca"><span class="flag-icon flag-icon-ca-tsp"></span></a> <a href="tel:+18553700385">Toll-Free: 1-855-370-0385</a></p>
 		</div>
 
-		<div class="hidden-xs col-sm-6 phone">
-			<p>$USD <a href="http://www.thecupstore.com"><span class="flag-icon flag-icon-us"></span></a> <a href="http://www.thecupstore.ca"><span class="flag-icon flag-icon-ca-tsp"></span></a> <a href="tel:+18666415900">Toll-Free: 1-866-641-5900</a></p>
-		</div>
-
-		<div class="visible-xs col-xs-12 phone"><!--Puts the flags on separate line on mobile-->
+		<div class="visible-xs col-xs-12 phone-header"><!--Puts the flags on separate line on mobile-->
 			<p>$USD <a href="http://www.thecupstore.com"><span class="flag-icon flag-icon-us"></span></a> <a href="http://www.thecupstore.ca"><span class="flag-icon flag-icon-ca-tsp"></span></a> </p>
 		</div>
 
-		<div class="visible-xs col-xs-12 phone">
-			<p><a href="tel:+18666415900">Toll-Free: 1-866-641-5900</a></p>
+		<div class="visible-xs col-xs-12 phone-header">
+			<p><a href="tel:+18553700385">Toll-Free: 1-855-370-0385</a></p>
 		</div>
 
 
@@ -36,7 +28,8 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="index.php"><img src="images/tcs-logo.jpg" alt="The Cup Store logo"></a>
+			<a class="navbar-brand" href="index.php">Primary Printers</a>
+			
 		</div><!--end navbar-header-->
 
 		<div class="collapse navbar-collapse" id="tcsnavbar-links"><!--contains the actual nav links-->
@@ -50,24 +43,25 @@
 						<li><a href="products.php"><strong>All Products</strong></a></li>
 						<li class="divider"></li>
 						<li><a href="prod-paper-cups.php">Paper Cups</a></li>
-						<li><a href="prod-eco-paper-cups.php">Eco-Paper Cups</a></li>
 						<li><a href="prod-double-paper-cups.php">Double-Walled Paper Cups</a></li>
 						
 						<li class="divider"></li>
 						<li><a href="prod-plastic-cups.php">Plastic Cups</a></li>
-						<li><a href="prod-eco-plastic-cups.php">Eco-Plastic Cups</a></li>
 						<li><a href="prod-frosted-plastic-cups.php">Translucent Plastic Cups</a></li>
 
 						<li class="divider"></li>
 						<li><a href="prod-glassware.php">Glassware</a></li>
 						<li><a href="prod-coffee-sleeves.php">Coffee Sleeves</a></li>
 						<li><a href="prod-gelato-cups.php">Gelato Cups</a></li>
+						<li><a href="prod-food-services.php">Food Services</a></li>
 						</ul>
 					</li>
+			<li><a href="order-info.php">Pricing</a></li>
 			<li><a href="order-info.php">Order Information</a></li>
-			<li><a href="about-us.php">About Us</a></li>
-			<li><a href="contact-us.php">Contact Us</a></li>
-			<li><a href="form/quote-request.php" class="hidden-xs"><strong>Quote Request</strong></a></li>
+			<li><a href="shipping.php">Shipping</a></li>
+			<li><a href="artwork.php">Artwork</a></li>
+			<li><a href="terms.php">Terms + Conditions</a></li>
+			<li><a href="contact-us.php">Contact</a></li>
 		</ul>
 					
 		</div><!--end nav links-->
