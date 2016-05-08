@@ -281,8 +281,8 @@ h1, h2, h3 {
 .tcs-pagetitle {
 	color: white;
 	background-color: #0076a3;
-	padding: 55px 15px 25px 15px;
-	margin-bottom: 25px;
+	padding: 35px 15px 15px 15px;
+	margin-bottom: 15px;
 }
 
 .tcs-pagetitle p {
@@ -298,8 +298,8 @@ h1, h2, h3 {
 /*Desktop*/
 @media screen and (min-width: 768px) {
 .tcs-pagetitle {
-	margin-bottom: 45px;
-	padding: 25px 15px;
+	margin-bottom: 22px;
+	padding: 20px 10px;
 }
 .tcs-pagetitle p {
 	font-size: 18px;
