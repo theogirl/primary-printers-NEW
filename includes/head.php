@@ -1,8 +1,9 @@
 
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-	<link rel="stylesheet" type="text/css" href="css/pp-style2.css">
+	<link rel="stylesheet" type="text/css" href="css/pp-styles.css">
 	<link rel="stylesheet" href="css/font-awesome.css">
   <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700' rel='stylesheet' type='text/css'>
+
 
 	<link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32">
 	<link rel="icon" type="image/png" href="images/android-chrome-36x36.png" sizes="36x36">
