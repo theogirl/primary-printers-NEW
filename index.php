@@ -51,34 +51,34 @@
 	</div>
 
 		<div class="col-xs-6 col-md-3 pp-thumb">
-	<a href="#"><img src="images/home-prod-dw.jpg" /><br />Double-Walled Cups</a>
+	<a href="prod-double-paper-cups.php"><img src="images/home-prod-dw.jpg" /><br />Double-Walled Cups</a>
 	</div>
 
 		<div class="col-xs-6 col-md-3 pp-thumb">
-	<a href="#"><img src="images/home-prod-plastic.jpg" /><br />Plastic Cups</a>
+	<a href="prod-plastic-cups.php"><img src="images/home-prod-plastic.jpg" /><br />Plastic Cups</a>
 	</div>
 
 
 		<div class="col-xs-6 col-md-3 pp-thumb">
-	<a href="#"><img src="images/home-prod-frosted.jpg" /><br />Frosted Plastic Cups</a>
+	<a href="prod-frosted-plastic-cups.php"><img src="images/home-prod-frosted.jpg" /><br />Frosted Plastic Cups</a>
 	</div>
 </div>
 
 <div class="row">
 	<div class="col-xs-6 col-md-3 pp-thumb">
-	<a href="prod-paper-cups.php"><img src="images/home-prod-glass.jpg" /><br />Glassware</a>
+	<a href="prod-glassware.php"><img src="images/home-prod-glass.jpg" /><br />Glassware</a>
 	</div>
 
 		<div class="col-xs-6 col-md-3 pp-thumb">
-	<a href="#"><img src="images/home-prod-gelato.jpg" /><br />Gelato Cups</a>
+	<a href="prod-gelato-cups.php"><img src="images/home-prod-gelato.jpg" /><br />Gelato Cups</a>
 	</div>
 
 		<div class="col-xs-6 col-md-3 pp-thumb">
-	<a href="#"><img src="images/home-prod-sleeve.jpg" /><br />Coffee Sleeves</a>
+	<a href="prod-coffee-sleeves.php"><img src="images/home-prod-sleeve.jpg" /><br />Coffee Sleeves</a>
 	</div>
 
 		<div class="col-xs-6 col-md-3 pp-thumb">
-	<a href="#"><img src="images/home-prod-food.jpg" /><br />Food Services</a>
+	<a href="prod-food-services.php"><img src="images/home-prod-food.jpg" /><br />Food Services</a>
 	</div>
 </div>
 </section>

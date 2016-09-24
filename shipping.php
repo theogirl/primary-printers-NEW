@@ -32,7 +32,7 @@
 <div class="container">
    <section class="row featurette">
 
-        <div class="col-md-8">
+        <div class="col-md-6">
           <p class="tcs-lead">
 						<p><strong><span style="color:red; font-size: 1.2em;">** Please note that the factory will not be responsible for lost, damaged or delayed product once an order has left our
 						facility.</span></strong></p>
@@ -51,7 +51,7 @@
 											</p><br />
         </div>
 
-				<div class="col-md-4">
+				<div class="col-md-6">
 					 <img class="featurette-image img-responsive" src="images/shipping-trolley.jpg" alt="PP Shipping">
 				 </div>
 	</section>

@@ -20,7 +20,7 @@
 
 
 <!--PAGE TITLE-->
-<section class="tcs-pagetitle">
+<section class="tcs-pagetitle plastic-yellow">
 	<div class="container-fluid">
 		<h1>Plastic Cups: Frosted</h1>
 	</div>
@@ -39,12 +39,13 @@
           <h2 class="featurette-heading">Translucent plastic cups.<br /><span class="text-muted">A fine, frosty option.</span></h2>
           <p class="cuplead-med"><strong>Available sizes:</strong> 5oz - 16oz<br />
          <strong>Cost includes:</strong> one-colour imprint (single or double-sided) + art proof</p>
+         <hr>
           <p class="cuplead-sm">Our translucent cups provide an economical option for those on a budget. The cups are ribbed for added durability and rigidity. Their evenly frosted tone allows liquids to be moderately seen through the cup - and makes that beer or sparkling beverage all the more appealing on a warm day.</p>
           <p>The semi-transparent surface provides just enough opacity so that the ink colours contrast well with the cup, which means your logo still appears sharp and vibrant.</p>
           <hr>
 
-          <p><i class="fa fa-arrow-circle-right fa-lg"></i> <a href="docs/pp-paper-cups-pricing.pdf" class="pricing">View pricing info for translucent plastic cups [PDF]</a></p>
-          <p>For complete information on how to plce your order, supply artwork, shipping and our terms and conditions, please refer to our complete <a href="http://www.primaryprinters.com/PrimaryPrintersCatalog.pdf">Primary Printers catalog</a>.</p>
+          <p><i class="fa fa-arrow-circle-right fa-lg"></i> <a href="docs/US-translucent.pdf" class="pricing">View pricing info for translucent plastic cups [PDF]</a></p>
+          <p>For complete information on how to plce your order, supply artwork, shipping and our terms and conditions, please refer to our complete <a href="docs/PrimaryPrintersCatalog-US-2016.pdf">Primary Printers catalog</a>.</p>
         </div>
 
       </section>

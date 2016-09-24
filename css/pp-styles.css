@@ -280,9 +280,19 @@ h1, h2, h3 {
 
 .tcs-pagetitle {
 	color: white;
-	background-color: #0076a3;
+	background-color: #50acc4;
 	padding: 35px 15px 15px 15px;
 	margin-bottom: 15px;
+}
+
+.plastic-yellow {
+	background-color: #fdbf2d;
+}
+.glassware-purple {
+	background-color: #8066a0;
+}
+.gelato-red {
+    background-color: #be0712;
 }
 
 .tcs-pagetitle p {

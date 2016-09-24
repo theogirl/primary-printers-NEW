@@ -20,7 +20,7 @@
 
 
 <!--PAGE TITLE-->
-<section class="tcs-pagetitle">
+<section class="tcs-pagetitle plastic-yellow">
 	<div class="container-fluid">
 		<h1>Plastic Cups: Clear</h1>
 	</div>
@@ -39,12 +39,13 @@
           <h2 class="featurette-heading">Standard plastic cups.<br /><span class="text-muted">Clear and cool.</span></h2>
           <p class="cuplead-med"><strong>Available sizes:</strong> 3.5oz - 24oz<br />
          <strong>Cost per cup includes:</strong> one-colour imprint (single or double-sided) + art proof</p>
+         <hr>
           <p class="cuplead-sm">Our soft-sided plastic cups are crystal clear and made from a durable, recyclable plastic. They are made from a #1 PET plastic - the most widely accepted plastic for recycling. Our plastic cups provide a top quality branding opportunity for all occasions.</p>
           <p>Plastic cups can be paired with either flat straw slot or clear dome lids that are available in the same clear recyclable plastic. These lids are versatile and practical too: designed to fit multiple size cups with a single lid.</p>
           <hr>
 
-          <p><i class="fa fa-arrow-circle-right fa-lg"></i> <a href="docs/pp-paper-cups-pricing.pdf" class="pricing">View pricing info for standard plastic cups and lids [PDF]</a></p>
-          <p>For complete information on how to plce your order, supply artwork, shipping and our terms and conditions, please refer to our complete <a href="http://www.primaryprinters.com/PrimaryPrintersCatalog.pdf">Primary Printers catalog</a>.</p>
+          <p><i class="fa fa-arrow-circle-right fa-lg"></i> <a href="docs/US-std-plastic.pdf" class="pricing">View pricing info for standard plastic cups and lids [PDF]</a></p>
+          <p>For complete information on how to place your order, supply artwork, shipping and our terms and conditions, please refer to our complete <a href="docs/PrimaryPrintersCatalog-US-2016.pdf">Primary Printers catalog</a>.</p>
         </div>
 
       </section>

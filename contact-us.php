@@ -52,13 +52,6 @@
 <!--INTRO + ADDRESSES-->
 <section class="tcs-contact">
 	<div class="container">
-	<div class="contact-social">
-      			<a href="https://www.facebook.com/TheCupStore1"><i class="fa fa-facebook"></i></a>
-				<a href="https://twitter.com/thecupstore"><i class="fa fa-twitter"></i></a>
-				<a href="https://www.linkedin.com/company/the-cup-store?trk=prof-following-company-logo"><i class="fa fa-linkedin"></i></a>
-				<a href="http://www.instagram.com/thecupstore"><i class="fa fa-instagram"></i></a>
-				<a href="https://www.pinterest.com/thecupstore/"><i class="fa fa-pinterest"></i></a>
-		</div>
 
 		<h2 class="text-center">We'd love to hear from you!</h2>
 		<p class="text-center">For more information on our product selection and to discuss your own cup marketing needs, please contact us! We also maintain a showroom at our Canadian office, that you are more than welcome to visit in person if you are ever in the area.</p>
@@ -70,22 +63,20 @@
 	<div class="col-xs-12 col-sm-4 col-sm-offset-2 tcs-address-box"><!--US Address Box-->
 		<img src="images/american-flag.png" alt="U.S. flag">
 		<h3>New York Office</h3>
-		<p><strong>Address:</strong><br /> 1320 Route 9<br />Champlain, NY 12919<br /><strong>Toll-Free Phone:</strong><a href="tel:+18666415900"> 1-866-641-5900</a><br /><strong>Toll-Free Fax:</strong> 1-877-850-0663<br /><strong>Email:</strong><a href="mailto:info@thecupstore.com"> Email our U.S. office</a><br /></p>
+		<p><strong>Address:</strong><br /> 1320 Route 9<br />Champlain, NY 12919<br /><strong>Toll-Free Phone:</strong><a href="tel:+18553700385"> 1-855-370-0385</a><br /><strong>Toll-Free Fax:</strong> 1-877-850-0663<br />
+		<strong>Local:</strong> <a href="tel:+15182618070">518-261-8070</a><br />
+		<strong>Email:</strong><a href="mailto:customerservice@primaryprinters.com"> Email Customer Service</a><br /></p>
 	</div>
 
 	<div class="col-xs-12 col-sm-4 tcs-address-box"><!--CDN Address Box-->
 		<img src="images/cdn-flag.png" alt="Canadian flag">
 		<h3>Toronto Office</h3>
-		<p><strong>Address:</strong><br /> 155 Dolomite Drive<br /> Toronto, ON M3J 2N1<br /><strong>Toll-Free Phone:</strong> <a href="tel:+18666415900">1-866-641-5900</a><br /><strong>Email:</strong><a href="mailto:info@thecupstore.ca"> Email our Canadian office</a><br /><strong>Website: </strong><a href="http://www.thecupstore.ca">Visit our Canadian site</a></p>
+		<p><strong>Address:</strong><br /> 155 Dolomite Drive<br /> Toronto, ON M3J 2N1<br /><strong>Toll-Free Phone:</strong> <a href="tel:+18553700385">1-855-370-0385</a><br />
+		<strong>Local:</strong> <a href="tel:+19053700385">905-370-0385</a><br />
+		<strong>Email:</strong><a href="mailto:customerservice@primaryprinters"> Email Customer Service</a><br /><strong>Website: </strong><a href="http://www.thecupstore.ca">Visit our Canadian site</a></p>
 	</div>
 
 </div><!--End row-->
-</section>
-
-
-<!--MAP-->
-<section>
-	<div class="container-fluid" id="map-canvas"></div>
 </section>
 
 

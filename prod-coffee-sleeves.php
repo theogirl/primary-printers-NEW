@@ -38,14 +38,15 @@
         <div class="col-md-7">
           <h2 class="featurette-heading">Coffee Sleeves.<br /><span class="text-muted">Keep drinks (and your brand!) hot.</span></h2>
           <p class="cuplead-med"><strong>One Size:</strong> These sleeves fit our 10/12/16/20/24oz standard and biodegradeable paper cups.<br />
-         <strong>Cost per sleeve includes:</strong> one-colour imprint (single side only) + art proof</p>
-         <p class="cuplead-med"><strong>Pad Plate:</strong> $52/colour. Can be printed in up to 4 colours.</p>
+         <strong>Cost per sleeve includes:</strong> one-colour imprint (single side only) + art proof<br />
+         <strong>Pad Plate:</strong> $52/colour. Can be printed in up to 4 colours.</p>
+         <hr>
           <p class="cuplead-sm">Our coffee sleeves provide an extra layer of insulation as well as another opportunity for additional branding! These sleeves are made from a thick quality paper to help insulate your hot beverages and are 100% recycleable.</p>
           <p>These sleeves come in both white and kraft brown and can be printed in up to 4 colours. Be sure to slip these sleeves onto our 10, 12, 16, 20 and 24 oz standard or compostable paper cups!</p>
           <hr>
 
-          <p><i class="fa fa-arrow-circle-right fa-lg"></i> <a href="docs/pp-paper-cups-pricing.pdf" class="pricing">View pricing info for coffee sleeves [PDF]</a></p>
-          <p>For complete information on how to plce your order, supply artwork, shipping and our terms and conditions, please refer to our complete <a href="http://www.primaryprinters.com/PrimaryPrintersCatalog.pdf">Primary Printers catalog</a>.</p>
+          <p><i class="fa fa-arrow-circle-right fa-lg"></i> <a href="docs/US-sleeves.pdf" class="pricing">View pricing info for coffee sleeves [PDF]</a></p>
+          <p>For complete information on how to place your order, supply artwork, shipping and our terms and conditions, please refer to our complete <a href="docs/PrimaryPrintersCatalog-US-2016.pdf">Primary Printers catalog</a>.</p>
         </div>
 
       </section>

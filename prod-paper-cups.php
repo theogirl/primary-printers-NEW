@@ -44,8 +44,8 @@
           <p>Our cups can be paired with either a dome sip lid, available in white or black, or a flat lid. They lids are universal, as well – you can fit multiple cup sizes, all with just one lid.</p>
           <hr>
 
-          <p><i class="fa fa-arrow-circle-right fa-lg"></i> <a href="docs/pp-paper-cups-pricing.pdf" class="pricing">View pricing info for standard paper cups and lids [PDF]</a></p>
-          <p>For complete information on how to plce your order, supply artwork, shipping and our terms and conditions, please refer to our complete <a href="http://www.primaryprinters.com/PrimaryPrintersCatalog.pdf">Primary Printers catalog</a>.</p>
+          <p><i class="fa fa-arrow-circle-right fa-lg"></i> <a href="docs/US-standard.pdf" class="pricing">View pricing info for standard paper cups and lids [PDF]</a></p>
+          <p>For complete information on how to place your order, supply artwork, shipping and our terms and conditions, please refer to our complete <a href="docs/PrimaryPrintersCatalog-US-2016.pdf">Primary Printers catalog</a>.</p>
         </div>
         </div>
 

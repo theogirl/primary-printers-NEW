@@ -20,7 +20,7 @@
 
 
 <!--PAGE TITLE-->
-<section class="tcs-pagetitle">
+<section class="tcs-pagetitle gelato-red">
 	<div class="container-fluid">
 		<h1>Gelato Cups</h1>
 	</div>
@@ -39,12 +39,13 @@
           <h2 class="featurette-heading">Gelato Cups.<br /><span class="text-muted">A guaranteed crowd-pleaser.</span></h2>
           <p class="cuplead-med"><strong>Available sizes:</strong> 6oz - 16oz<br />
          <strong>Cost per cup includes:</strong> one-colour imprint (single or double-sided) + art proof</p>
+         <hr>
           <p class="cuplead-sm">Nothing tastes better than ice cream or a rich gelato on a hot day, and we have the perfect cups to serve it in!  Our gelato cups are made of a thick quality paper, making them both sturdy and ideal for printing, as well as 100% recyclable. The white background guarantees that any logo will stand out and be noticed!</p>
           <p>Our gelato cups can also be paired with a clear dome lid, making them perfect for take-out.</p>
           <hr>
 
-          <p><i class="fa fa-arrow-circle-right fa-lg"></i> <a href="docs/pp-paper-cups-pricing.pdf" class="pricing">View pricing info for gelato cups and lids [PDF]</a></p>
-          <p>For complete information on how to plce your order, supply artwork, shipping and our terms and conditions, please refer to our complete <a href="http://www.primaryprinters.com/PrimaryPrintersCatalog.pdf">Primary Printers catalog</a>.</p>
+          <p><i class="fa fa-arrow-circle-right fa-lg"></i> <a href="docs/US-gelato.pdf" class="pricing">View pricing info for gelato cups and lids [PDF]</a></p>
+          <p>For complete information on how to plce your order, supply artwork, shipping and our terms and conditions, please refer to our complete <a href="docs/PrimaryPrintersCatalog-US-2016.pdf">Primary Printers catalog</a>.</p>
         </div>
 
       </section>

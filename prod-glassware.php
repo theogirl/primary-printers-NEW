@@ -20,7 +20,7 @@
 
 
 <!--PAGE TITLE-->
-<section class="tcs-pagetitle">
+<section class="tcs-pagetitle glassware-purple">
 	<div class="container-fluid">
 		<h1>Glassware</h1>
 	</div>
@@ -38,14 +38,15 @@
         <div class="col-md-7">
           <h2 class="featurette-heading">Assorted glassware.<br /><span class="text-muted">A toast to good taste - and your brand.</span></h2>
           <p class="cuplead-med"><strong>Available sizes:</strong> 4oz - 24oz<br />
-         <strong>Cost per glass includes:</strong> one-colour imprint (single side only) + art proof</p>
-         <p class="cuplead-med"><strong>Pad Plate:</strong> $52/colour. Can be printed in up to 4 colours.</p>
+         <strong>Cost per glass includes:</strong> one-colour imprint (single side only) + art proof<br />
+         <strong>Pad Plate:</strong> $52/colour. Can be printed in up to 4 colours.</p>
+         <hr>
           <p class="cuplead-sm">The Cup Store offers a wide selection of high quality glassware products that are available on their own or with a custom imprint. Ideal for bars, pubs, restaurants or coffee shops, our glass collection is American-made and supplied by the leading glass manufacturers in the country.</p>
           <p class="cuplead-sm">Have a favorite style glass? The Cup Store has it; we can provide your favourite pilsner, cooler, lager or mixing glass. We also carry stemware, shot glasses and pitchers! As with all our products, our glassware will provide you with an eye-catching, high quality tool to help you promote your company and your brand!</p>
           <hr>
 
-          <p><i class="fa fa-arrow-circle-right fa-lg"></i> <a href="docs/pp-paper-cups-pricing.pdf" class="pricing">View pricing info for glassware [PDF]</a></p>
-          <p>For complete information on how to plce your order, supply artwork, shipping and our terms and conditions, please refer to our complete <a href="http://www.primaryprinters.com/PrimaryPrintersCatalog.pdf">Primary Printers catalog</a>.</p>
+          <p><i class="fa fa-arrow-circle-right fa-lg"></i> <a href="docs/US-glassware.pdf" class="pricing">View pricing info for glassware [PDF]</a></p>
+          <p>For complete information on how to place your order, supply artwork, shipping and our terms and conditions, please refer to our complete <a href="docs/PrimaryPrintersCatalog-US-2016.pdf">Primary Printers catalog</a>.</p>
         </div>
 
       </section>

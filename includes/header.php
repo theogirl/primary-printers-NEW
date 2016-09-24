@@ -56,7 +56,7 @@
 						<li><a href="prod-food-services.php">Food Services</a></li>
 						</ul>
 					</li>
-			<li><a href="order-info.php">Pricing</a></li>
+			<li><a href="pricing.php">Pricing</a></li>
 			<li><a href="order-info.php">Order Information</a></li>
 			<li><a href="shipping.php">Shipping</a></li>
 			<li><a href="artwork.php">Artwork</a></li>
