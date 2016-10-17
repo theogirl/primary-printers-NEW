@@ -63,7 +63,7 @@
 
     <h3 class="text-center">All sizes come in clear only. Minimum order = 100 cups.</h3>
     <section class="row">
-      <div class="col-xs-6 col-sm-2 col-sm-offset-2 tcs-product">
+      <div class="col-xs-6 col-sm-2 col-sm-offset-1 tcs-product">
       <img src="images/products/plastic-std-35oz.jpg" alt="plastic-cup-3.5oz" title="plastic-cup-4.5oz">
       <h4>3.5 oz.</h4>
       </div>
@@ -76,6 +76,11 @@
       <div class="col-xs-6 col-sm-2 tcs-product">
       <img src="images/products/plastic-std-7oz.jpg" alt="plastic-cup-7oz" title="plastic-cup-7oz">
       <h4>7 oz.</h4>
+      </div>
+
+      <div class="col-xs-6 col-sm-2 tcs-product">
+      <img src="images/products/plastic-std-9oz.jpg" alt="plastic-cup-9oz" title="plastic-cup-9oz">
+      <h4>9 oz.</h4>
       </div>
 
       <div class="col-xs-6 col-sm-2 tcs-product">
